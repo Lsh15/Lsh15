@@ -7,7 +7,7 @@ Hi, My name is SeungHhun Lee
 
 Back in colleae, I majored in programming.
 
-In addition, I used to work in the Android OS development department as a researcher.
+In addition, I used to work in the Android OS development department as an Engineer.
 
 I have more than two years of experience in programming.
 
