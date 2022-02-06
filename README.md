@@ -15,12 +15,16 @@
 
 스킬
 ------
+* Java, Kotlin, Python
 
 경력사항 & 프로젝트
 ------
+* 소프트마일  2020.01 ~ 현재
 
 교육
 ------
+* 안양대학교 
+  * 소프트웨어학과 졸업  2013.03 ~ 2020.02
 
 English Version
 ======
@@ -39,10 +43,15 @@ Contact & Channel
 
 Skils
 ------
+* Java, Kotlin, Python
 
 Work Experience & Projects
 ------
+* Softmile  01/2020 ~ Current
+
 
 Education
 ------
+* Anyang University 
+  * Associate of Science : Software Major 03/2013 ~ 02/2020
 
