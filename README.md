@@ -23,6 +23,9 @@
 
 교육
 ------
+* 한국 데이터 산업 진흥원 
+  * 파이썬 기반의 데이터분석 및 딥러닝 교육 2019.06 ~ 2019.09
+
 * 안양대학교 
   * 소프트웨어학과 졸업  2013.03 ~ 2020.02
 
@@ -52,6 +55,8 @@ Work Experience & Projects
 
 Education
 ------
+* Korea Data Agency (K-DATA)
+  * Python-based data analysis and deep learning education 06/2019 ~ 09/2019
 * Anyang University 
   * Associate of Science : Software Major 03/2013 ~ 02/2020
 
