@@ -20,12 +20,13 @@
 경력사항 & 프로젝트
 ------
 * 소프트마일  2020.01 ~ 현재
+  * FBMS(Forklift Battery Management System) 안드로이드 어플 제작
+  * 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
 
 교육
 ------
 * 한국 데이터 산업 진흥원 
   * 파이썬 기반의 데이터분석 및 딥러닝 교육 2019.06 ~ 2019.09
-
 * 안양대학교 
   * 소프트웨어학과 졸업  2013.03 ~ 2020.02
 
@@ -51,7 +52,8 @@ Skils
 Work Experience & Projects
 ------
 * Softmile  01/2020 ~ Current
-
+  * FBMS(Forklift Battery Management System) Android App production
+  * Python-based FBMS(Forklift Battery Management System) data analysis algorithm implementation  
 
 Education
 ------
