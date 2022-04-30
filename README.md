@@ -7,6 +7,7 @@
 * 사소한것이라도 해결했을때 성취감을 느끼는편 입니다.
 * 꾸준함의 중요성을 믿기에 1일 1커밋 운동을 실천하기 위하여 노력하고 있습니다.
 * Clean Code와 Test에 대한 고민을 생활화하기위해 노력합니다.
+* 
 
 연락처 & 채널
 ------
@@ -22,6 +23,7 @@
 * 소프트마일  2020.01 ~ 현재
   * [FBMS(Forklift Battery Management System) 안드로이드 어플 제작](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
+  * 
 
 교육
 ------
@@ -33,7 +35,8 @@
     * Python YOLO를 이용한 실기간 객체 탐지 알고리즘 학습  
 * 안양대학교 
   * 소프트웨어학과 졸업  2013.03 ~ 2020.02
-
+*
+  
 English Version
 ======
 Introduction
@@ -43,6 +46,7 @@ Introduction
 * Even before becoming a developer, I lived with the joy of solving it, but now I am into development.
 * I tend to feel a sense of accomplishment even in small things.
 * I believe in the importance of constant, so I try to practice 1day-1commit
+*
 
 Contact & Channel
 ------
@@ -58,11 +62,16 @@ Work Experience & Projects
 * Softmile  01/2020 ~ Current
   * [FBMS(Forklift Battery Management System) Android App production](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * Python-based FBMS(Forklift Battery Management System) data analysis algorithm implementation  
+  * 
 
 Education
 ------
 * Korea Data Agency (K-DATA)
   * Python-based data analysis and deep learning education 06/2019 ~ 09/2019
+* AI_Yangjae
+  * Artificial Intelligence Application Course Practice
+    * Real-time Object Detection Algorithm Learning Using Python YOLO
 * Anyang University 
   * Associate of Science : Software Major 03/2013 ~ 02/2020
+*
 
