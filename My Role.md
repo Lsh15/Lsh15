@@ -18,7 +18,7 @@
   
 * 구현한 App 화면
 
-<img src="https://user-images.githubusercontent.com/50148363/185747683-f33214ef-c4c8-467a-91a8-98e66a922a58.png" width="300" height="500"/>   <img src="https://user-images.githubusercontent.com/50148363/185748052-f49c0fef-30d4-48ea-8d0d-fb5a9eacf131.png" width="320" height="500"/>
+<img src="https://user-images.githubusercontent.com/50148363/185748662-cfee99e9-6e75-44b7-a438-ae91731a0b69.png" width="300" height="500"/>    <img src="https://user-images.githubusercontent.com/50148363/185747683-f33214ef-c4c8-467a-91a8-98e66a922a58.png" width="300" height="500"/>   <img src="https://user-images.githubusercontent.com/50148363/185748052-f49c0fef-30d4-48ea-8d0d-fb5a9eacf131.png" width="320" height="500"/>
 
 
 ## FBMS 알고리즘 구현 및 데이터 분석 (Python)
