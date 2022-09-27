@@ -20,7 +20,7 @@
 
 경력사항 & 프로젝트
 ------
-* 소프트마일  2020.01 ~ 현재
+* 소프트마일  2020.01 ~ 2022.06
   * [FBMS(Forklift Battery Management System) 안드로이드 어플 제작](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
   * 
