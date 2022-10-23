@@ -23,7 +23,9 @@
 * 소프트마일  2020.01 ~ 2022.06
   * [FBMS(Forklift Battery Management System) 안드로이드 어플 제작](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
-  * 
+* RunAndWalk (개인 프로젝트) 2022.09 ~ 2022.10
+  * 구글 지도를 이용한 운동 기록 앱
+  * https://github.com/Lsh15/RunAndWalk
 
 교육
 ------
@@ -59,11 +61,13 @@ Skils
 
 Work Experience & Projects
 ------
-* Softmile  01/2020 ~ Current
+* Softmile  01/2020 ~ 06/2022
   * [FBMS(Forklift Battery Management System) Android App production](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * Python-based FBMS(Forklift Battery Management System) data analysis algorithm implementation  
-  * 
-
+* RunAndWalk 09/2022 ~ 10/2022
+  * Exercise Record App Using Google Maps
+  * https://github.com/Lsh15/RunAndWalk
+  
 Education
 ------
 * Korea Data Agency (K-DATA)
