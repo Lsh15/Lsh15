@@ -32,9 +32,6 @@
 * 한국 데이터 산업 진흥원 
   * 파이썬 기반의 데이터분석 및 딥러닝 교육 2019.06 ~ 2019.09
     * K-NN 알고리즘을 이용하여 SNS상의 리뷰들을 분석해 장소 및 코스 추천 알고리즘 구현
-* AI 양재 허브 
-  * AI 실무과정 실전 응용형 교육 2020.09 ~ 2020.09
-    * Python YOLO를 이용한 실기간 객체 탐지 알고리즘 학습  
 * 안양대학교 
   * 소프트웨어학과 졸업  2013.03 ~ 2020.02
 *
@@ -72,9 +69,6 @@ Education
 ------
 * Korea Data Agency (K-DATA)
   * Python-based data analysis and deep learning education 06/2019 ~ 09/2019
-* AI_Yangjae
-  * Artificial Intelligence Application Course Practice
-    * Real-time Object Detection Algorithm Learning Using Python YOLO
 * Anyang University 
   * Associate of Science : Software Major 03/2013 ~ 02/2020
 *
