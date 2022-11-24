@@ -23,6 +23,8 @@
 * 소프트마일  2020.01 ~ 2022.06
   * [FBMS(Forklift Battery Management System) 안드로이드 어플 제작](https://play.google.com/store/apps/details?id=kr.co.softmile.fbms)
   * 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
+  * [역할 및 성과](https://github.com/Lsh15/Resume/blob/main/My%20Role.md)
+  
 * RunAndWalk (개인 프로젝트) 2022.09 ~ 2022.10
   * 구글 지도를 이용한 운동 기록 앱
   * https://github.com/Lsh15/RunAndWalk
