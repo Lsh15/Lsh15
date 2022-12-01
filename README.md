@@ -44,7 +44,7 @@ Introduction
 ------
 * Hi, My name is SeungHhun Lee
 * I'm a second year developer.
-* Even before becoming a developer, I lived with the joy of solving it, but now I am into development.
+* Even before becoming a developer, I lived with the joy of solving it, but now I'm into development.
 * I tend to feel a sense of accomplishment even in small things.
 * I believe in the importance of constant, so I try to practice 1day-1commit
 *
