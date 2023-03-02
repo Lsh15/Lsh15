@@ -44,7 +44,7 @@
     기술 - Java, Kotlin   
     링크 - https://play.google.com/store/apps/details?id=kr.co.softmile.fbms    
 
-#### 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 구현 
+#### 파이썬 기반의 FBMS(Forklift Battery Management System) 데이터 분석 알고리즘 
     * 설계 
        - 배터리 전압, 전류, 온도 등을 이용한 지게차 배터리 수명 예측 알고리즘 설계
        - LabelImg를 이용하여 지게차, 배터리 명판 이미지 인식을 위한 라벨링 작업 (300개 이상)
